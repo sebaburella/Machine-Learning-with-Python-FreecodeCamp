@@ -8,3 +8,7 @@ También se sumergirá en las redes neuronales y aprenderá los principios detr�
 # Tensorflow
 TensorFlow es un marco de código abierto que facilita el uso del aprendizaje automático y las redes neuronales.
 El siguiente curso en video fue creado por Tim Ruscica, también conocido como "Tech With Tim". Le ayudará a comprender TensorFlow y algunas de sus poderosas capacidades.
+
+# How Neural Networks Work
+Las redes neuronales son el núcleo de lo que hoy llamamos inteligencia artificial. Pero históricamente han sido difíciles de entender. Especialmente para principiantes en el campo del aprendizaje automático.
+Incluso si es completamente nuevo en redes neuronales, estos cursos en video de Brandon Rohrer lo ayudarán a sentirse cómodo con los conceptos y las matemáticas detrás de ellos.
