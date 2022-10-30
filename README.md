@@ -12,5 +12,5 @@ El siguiente curso en video fue creado por Tim Ruscica, también conocido como "
 Las redes neuronales son el núcleo de lo que hoy llamamos inteligencia artificial. Pero históricamente han sido difíciles de entender. Especialmente para principiantes en el campo del aprendizaje automático.
 Incluso si es completamente nuevo en redes neuronales, estos cursos en video de Brandon Rohrer lo ayudarán a sentirse cómodo con los conceptos y las matemáticas detrás de ellos.
 
-#Aprendizaje automático con proyectos de Python
+# Aprendizaje automático con proyectos de Python
 El aprendizaje automático tiene muchas aplicaciones prácticas. Al completar estos proyectos de codificación gratuitos y desafiantes, demostrará que tiene un buen conocimiento básico del aprendizaje automático y calificará para su certificación de Aprendizaje automático con Python.
